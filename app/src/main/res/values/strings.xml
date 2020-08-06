@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BuyList</string>
+    <string name="purchases_list">Список покупок</string>
+    <string name="products_list">Список продуктов</string>
+    <string name="pruducts_list_activity_title">Products</string>
+    <string name="adding_product">Добавление продукта</string>
+    <string name="write_name">Введите название</string>
+    <string name="cansel">Отмена</string>
+    <string name="ready">Готово</string>
+</resources>
